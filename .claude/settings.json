@@ -19,8 +19,7 @@
       "Write(context/**)",
       "Edit(CLAUDE.md)",
       "Write(CLAUDE.md)",
-      "Edit(.claude/**)",
-      "Write(.claude/**)"
+      "Edit(.claude/**)"
     ],
     "deny": [
       "Bash(git push --force:*)",
