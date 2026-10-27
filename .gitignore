@@ -1,0 +1,12 @@
+# Customer data, photos and lists stay on the computer that has them. Never pushed.
+board/inputs/*
+!board/inputs/.keep
+
+# Personal Claude Code settings and secrets
+.claude/settings.local.json
+.env
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
